@@ -6,6 +6,8 @@ Github for Windows was failing to sync to the remote server. Since the Lynda.com
 videos I was watching were referring to Git for Windows and not Github for 
 Windows I thought I should be in sync. 
 
+I finished watching the Javascript Functions course.
+
 I also watched some of the Git Essential Training via Lynda after watching 
 the shorter intro Lynda Git course.
 
