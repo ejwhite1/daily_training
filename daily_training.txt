@@ -8,3 +8,6 @@ Windows I thought I should be in sync.
 
 I also watched some of the Git Essential Training via Lynda after watching 
 the shorter intro Lynda Git course.
+
+I also cloned my Github repo of Eloquent_Javascript down to 
+C:\Users\ejwhite1\Documents\daily_training. 
