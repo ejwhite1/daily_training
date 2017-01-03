@@ -1,0 +1,10 @@
+2017-01-03 
+
+Today I uninstalled GitHub for Windows from my PC and installed Git for Windows. 
+
+Github for Windows was failing to sync to the remote server. Since the Lynda.com
+videos I was watching were referring to Git for Windows and not Github for 
+Windows I thought I should be in sync. 
+
+I also watched some of the Git Essential Training via Lynda after watching 
+the shorter intro Lynda Git course.
