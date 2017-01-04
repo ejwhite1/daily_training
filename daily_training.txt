@@ -13,3 +13,9 @@ the shorter intro Lynda Git course.
 
 I also cloned my Github repo of Eloquent_Javascript down to 
 C:\Users\ejwhite1\Documents\daily_training. 
+
+
+2017-01-04
+
+Watched some of JavaScript and AJAX on Lynda.com. I want to review the robot
+code to see how this is done there.
