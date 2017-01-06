@@ -1,3 +1,14 @@
+2017-01-05
+
+Finished section 1. Getting Started in the JS and AJAX Lynda.com video. I watched
+this at home at night. Try the section 1 exercises at work tomorrow.
+
+2017-01-04
+
+Watched some of JavaScript and AJAX on Lynda.com. I want to review the robot
+code to see how this is done there.
+
+
 2017-01-03 
 
 Today I uninstalled GitHub for Windows from my PC and installed Git for Windows. 
@@ -15,7 +26,3 @@ I also cloned my Github repo of Eloquent_Javascript down to
 C:\Users\ejwhite1\Documents\daily_training. 
 
 
-2017-01-04
-
-Watched some of JavaScript and AJAX on Lynda.com. I want to review the robot
-code to see how this is done there.
