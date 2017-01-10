@@ -1,3 +1,8 @@
+2017-01-09
+
+Watched section 3 of JS and AJAX at home and spent some time thinking 
+about how to update the New Hacker's Dictionary.
+
 2017-01-06
 
 I ran out of time to do the section 1 exercises at work but I did watch
