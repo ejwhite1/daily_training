@@ -1,3 +1,19 @@
+2017-01-11
+
+Watched the first part of section 4 of JS and AJAX again and
+tried to read in the a.json file using the code from the video.
+It failed at first but after getting my JSON file formatted
+correctly it worked.
+
+I had to run XAMPP to get the data file loaded. Otherwise the 
+browser won't let Javascript open files directly on disk. 
+
+I was working in C:\xampp\htdocs\daily after copying files over from
+C:\Users\ejwhite1\Documents\daily_training\Training_log\ExerciseFiles\04-01.
+
+Tomorrow I hope to watch the rest of the Lynda.com vides and 
+get the Chrome debugging working with VS Code.
+
 2017-01-10
 
 Watched most of section 4 of JS and AJAX and started writing JSON file
