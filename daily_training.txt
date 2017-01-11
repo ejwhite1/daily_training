@@ -1,3 +1,8 @@
+2017-01-10
+
+Watched most of section 4 of JS and AJAX and started writing JSON file
+as a test for the jargon file.
+
 2017-01-09
 
 Watched section 3 of JS and AJAX at home and spent some time thinking 
