@@ -1,3 +1,15 @@
+2017-01-13
+
+Reviewed the first part of section 4 of the JS and AJAX series
+and tweaked the jargon file script to read from the a.json file
+and display the 'entry' value in index.html.
+
+Also searched for some tools to try to convert the jargon file
+HTML to JSON. Both Parsely (https://github.com/buckyroberts/Parsley)
+and the scrape tool (listed on this data science page: 
+http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+could be helpful.
+
 2017-01-11
 
 Watched the first part of section 4 of JS and AJAX again and
