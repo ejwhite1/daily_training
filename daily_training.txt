@@ -1,3 +1,9 @@
+2017-01-17
+
+I watched a bit more of section 4 of the JS and AJAX series.
+I want to try the progressive search with the jargon file data
+tomorrow.
+
 2017-01-13
 
 Reviewed the first part of section 4 of the JS and AJAX series
