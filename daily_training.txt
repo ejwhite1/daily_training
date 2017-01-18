@@ -1,3 +1,13 @@
+2017-01-18
+
+I fnished the JS and AJAX Lynda.com video. I haven't yet tested the 
+search functionality in the jargon files. 
+
+I also read the introduction to "Building Maintainable Software." 
+I have a PDF of this book in Evernote. I took notes in the card for 
+it in Trello. When I finish reading it I'll move the card to the "Read"
+column.
+
 2017-01-17
 
 I watched a bit more of section 4 of the JS and AJAX series.
