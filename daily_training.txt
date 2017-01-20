@@ -1,3 +1,17 @@
+2017-01-20
+
+I watched the first video in the Wes Bos 30 day challenge. I didn't 
+write any code from that video. 
+
+I also found the XML version of the jargon file in this folder:
+C:\Users\ejwhite1\Downloads\jargon file\jargsrc.tar\jargsrc and tried
+on online converter to convert the xml to json. It threw some errors but
+probably warrants additional tests. 
+
+I think the way forward is to convert one of the sources (HTML, XML, or 
+plain text) to a JSON file that then gets used as a data source by just 
+a few different HTML files vs. the hundreds of HTML files that exist now.
+
 2017-01-18
 
 I fnished the JS and AJAX Lynda.com video. I haven't yet tested the 
