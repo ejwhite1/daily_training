@@ -1,3 +1,22 @@
+2017-01-23
+
+I spent a lot of time getting the Chrome debug tools to work in VS Code. 
+It took a couple of hours to get the base tools to work. I documented this
+in Evernote.  
+
+Then I tried testing breakpoints using the debug tools and they kept failing.
+
+I finally closed the chrome tab with the index.html file, closed file in VS code, 
+then re-opened it in Chroe, re-opened it in VS Code, set a breakpoint in 
+front_end.js, launched the debug session and the breakpiont remained and worked.
+In the past it get grayed out whenever the debug session started. 
+
+I guess the leasson learned is always close and restart files and tabs when you
+run into problems with the chrome debug tools in VS Code.
+
+Also, the '"diagnosticLogging": true' flag may be useful in future VS Code 
+troubleshooting issues.
+
 2017-01-20
 
 I watched the first video in the Wes Bos 30 day challenge. I didn't 
