@@ -1,5 +1,25 @@
 2017-01-23
 
+Today I watched VS Code intro videos:
+https://code.visualstudio.com/docs/introvideos/overview
+
+I considered starting the Udacity "Javascript Testing" course 
+(https://www.udacity.com/course/javascript-testing--ud549) but instead
+started Udacity course Object Oriented Javascript. It recommended the
+Codecademy JS Functions section as review. I worked through this today
+and tomorrow I'll start the Object Oriented course.
+
+I'll also watch the version control in VS Code intro video and use it to 
+track my progress in the course.
+
+I installed Chrome Canary yesterday and configured it to run listening
+for debugging on port 9222. I'll use it for robot debugging, but it's 
+still a bit wonky. All chrome instances (regular and Canary) sometimes 
+need to be shut down and stopped in order for debugging to work in VS 
+Code.
+
+2017-01-23
+
 I spent a lot of time getting the Chrome debug tools to work in VS Code. 
 It took a couple of hours to get the base tools to work. I documented this
 in Evernote.  
