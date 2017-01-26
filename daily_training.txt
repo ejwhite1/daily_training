@@ -1,3 +1,8 @@
+2017-01-24
+
+I watched the first section of the OO JS couse at Udacity. 
+Lexical and operational scope was covered. Next up are closures.
+
 2017-01-23
 
 Today I watched VS Code intro videos:
