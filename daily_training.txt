@@ -1,9 +1,14 @@
-2017-01-24
+2017-01-27
+
+I finished the closures section of the Udacity OO JS course. Use of 
+.this is up next.
+
+2017-01-26
 
 I watched the first section of the OO JS couse at Udacity. 
 Lexical and operational scope was covered. Next up are closures.
 
-2017-01-23
+2017-01-25
 
 Today I watched VS Code intro videos:
 https://code.visualstudio.com/docs/introvideos/overview
