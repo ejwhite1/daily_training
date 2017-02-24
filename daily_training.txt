@@ -1,3 +1,15 @@
+2017-02-24
+
+This week I installed MongoDB locally on my PC. I also installed the 
+DataDog agent and configured the MongoDB connector. The agent is sending
+both Mongo and workstation stats back to DataDog and displaying them
+in a dashboard.
+
+More info on that available here: 
+https://www.datadoghq.com/dashboards/mongodb-dashboard/
+
+Next week I'll install the agent on Nimue.
+
 2017-01-27
 
 I finished the closures section of the Udacity OO JS course. Use of 
