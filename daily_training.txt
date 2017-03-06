@@ -1,3 +1,11 @@
+2017-03-06
+
+Spent the first hour of hte day working on Wes Bos' "30 Day Vanilla
+JS Coding Challenge." I worked through example 1 today. Locally I'm 
+working in 
+C:\Users\ejwhite1\Documents\daily_training\Wes_Bos_JS_30_days\JavaScript30-ejw. 
+This is committed to github under https://github.com/ejwhite1/Wes-Bos-30-days-vanilla-JS
+
 2017-02-24
 
 This week I installed MongoDB locally on my PC. I also installed the 
